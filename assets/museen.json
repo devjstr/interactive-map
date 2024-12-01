@@ -1,0 +1,86 @@
+[
+  {
+    "coords": [51.306103337783405, 6.853387701263165],
+    "title": "Textilfabrik Cromford",
+    "description": "LVR-Industriemuseum",
+    "googleMapsLink": "https://maps.app.goo.gl/2YEUMftXh1bQjbgG9"
+  },
+  {
+    "coords": [50.71752559641859, 7.119005409054588],
+    "title": "Haus der Geschichte",
+    "description": "Geschichtsmuseum",
+    "googleMapsLink": "https://maps.app.goo.gl/com9Nx8KkeNkognk7"
+  },
+  {
+    "coords": [51.193739512331284, 7.117545876052412],
+    "title": "Historischer Manuelskotten",
+    "description": "Technikmuseum",
+    "googleMapsLink": "https://maps.app.goo.gl/A2eVMYrzAG9G8E8Q9"
+  },
+  {
+    "coords": [51.43282104374715, 7.126361038330144],
+    "title": "Eisenbahnmuseum Bochum",
+    "description": "Geschichtsmuseum",
+    "googleMapsLink": "https://maps.app.goo.gl/qrGDrbceVFx1DPV27"
+  },
+  {
+    "coords": [51.494266111218856, 6.870478339730562],
+    "title": "Gasometer Oberhausen",
+    "description": "Ausstellungshalle",
+    "googleMapsLink": "https://maps.app.goo.gl/9YR4J5qJdA8RUENZ7"
+  },
+  {
+    "coords": [51.22739176193771, 6.773805582885212],
+    "title": "Mahn- Gedenkstätte Düsseldorf",
+    "description": "Museum Lokalgeschichte",
+    "googleMapsLink": "https://maps.app.goo.gl/NYWWPv4R4daWYk299"
+  },
+  {
+    "coords": [51.25581645990616, 7.2553879059968205],
+    "title": "Mahnmal KZ Kemna",
+    "description": "Gedenkstätte",
+    "googleMapsLink": "https://maps.app.goo.gl/iC2xp6xBBASGKYA59"
+  },
+  {
+    "coords": [50.94062641330613, 6.950203985488576],
+    "title": "NS-Dokumentationszentrum",
+    "description": "Historisches Museum",
+    "googleMapsLink": "https://maps.app.goo.gl/8jUbrEU28osVLkk9A"
+  },
+  {
+    "coords": [51.25924270040824, 7.144403417029353],
+    "title": "Begegnungsstätte",
+    "description": "Alte Synagoge",
+    "googleMapsLink": "https://maps.app.goo.gl/CEocP8KbRGqF3wbU8"
+  },
+  {
+    "coords": [51.51977038365615, 7.460741423181406],
+    "title": "Steinwache",
+    "description": "Sehenswürdigkeit",
+    "googleMapsLink": "https://maps.app.goo.gl/p8zZ9y6nyMKUQB7x6"
+  },
+  {
+    "coords": [51.34126421356394, 6.580163756042182],
+    "title": "Die Villa Merländer",
+    "description": "Historisches Museum",
+    "googleMapsLink": "https://maps.app.goo.gl/CxVRD27YkKe94uWd7"
+  },
+  {
+    "coords": [50.73462197171757, 7.104479714384169],
+    "title": "NS-Dokumentationszentrum",
+    "description": "Gedenkstätte",
+    "googleMapsLink": "https://maps.app.goo.gl/m2fdXratQjXLiJgu5"
+  },
+  {
+    "coords": [51.49185610272272, 6.860315125283704],
+    "title": "Gedenkhalle Oberhausen",
+    "description": "Museum",
+    "googleMapsLink": "https://maps.app.goo.gl/WndZJcahc1kK16zG7"
+  },
+  {
+    "coords": [51.45314620854162, 7.5927363734532225],
+    "title": "KZ Buchenwald Außenlager",
+    "description": "Gedenkstätte",
+    "googleMapsLink": "https://maps.app.goo.gl/i5a6ESCtPTucKoB28"
+  }
+]
